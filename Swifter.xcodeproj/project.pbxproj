@@ -93,6 +93,7 @@
 		A1E207B31D4B86170093E498 /* Int++.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1E207B01D4B86170093E498 /* Int++.swift */; };
 		A1E207B41D4B86170093E498 /* Data++.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1E207B11D4B86170093E498 /* Data++.swift */; };
 		A1E207B51D4B86170093E498 /* Data++.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1E207B11D4B86170093E498 /* Data++.swift */; };
+		B240633C2061660800636A93 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = B240633B2061660800636A93 /* UserProfile.swift */; };
 		B2C676A320607E20005D97C3 /* SwifterMessagesMigration.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2C676A220607E20005D97C3 /* SwifterMessagesMigration.swift */; };
 		D0DCE3EE1F09C5E700B62429 /* SwifterGIF.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DCE3ED1F09C5E700B62429 /* SwifterGIF.swift */; };
 		D0DCE3EF1F09C5E700B62429 /* SwifterGIF.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DCE3ED1F09C5E700B62429 /* SwifterGIF.swift */; };
@@ -206,6 +207,7 @@
 		A1E207A81D4B85D90093E498 /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
 		A1E207B01D4B86170093E498 /* Int++.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Int++.swift"; sourceTree = "<group>"; };
 		A1E207B11D4B86170093E498 /* Data++.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Data++.swift"; sourceTree = "<group>"; };
+		B240633B2061660800636A93 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
 		B2C676A220607E20005D97C3 /* SwifterMessagesMigration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwifterMessagesMigration.swift; sourceTree = "<group>"; };
 		D0DCE3ED1F09C5E700B62429 /* SwifterGIF.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwifterGIF.swift; sourceTree = "<group>"; };
 		DC7D6B711ECA5294008586E3 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -284,6 +286,7 @@
 			children = (
 				8B300C4F1944AECB00993175 /* AppDelegate.swift */,
 				8B300C4D1944AECB00993175 /* ViewController.swift */,
+				B240633B2061660800636A93 /* UserProfile.swift */,
 				8B300C491944AECB00993175 /* Supporting Files */,
 			);
 			path = SwifterDemoMac;
@@ -634,6 +637,7 @@
 			files = (
 				8B300C501944AECB00993175 /* AppDelegate.swift in Sources */,
 				8B300C4E1944AECB00993175 /* ViewController.swift in Sources */,
+				B240633C2061660800636A93 /* UserProfile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
